@@ -1,1 +1,1 @@
-# wallace_tree
+# wallace_tree_VHDL
